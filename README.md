@@ -1,1 +1,1 @@
-projeto recriando a pagina inicial do instagram
+projeto  de recrição da pagina inicial do instagram
